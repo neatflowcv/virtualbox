@@ -6,3 +6,4 @@ linters:
     - depguard
     - tagliatelle
     - wsl # deprecated
+    - prealloc
